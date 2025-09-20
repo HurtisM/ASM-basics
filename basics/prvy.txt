@@ -1,0 +1,18 @@
+Toto je textovy zapis vo Vim bez diakritiky. Len na studijne ucely! prvy subor
+bude sluzit na nucenie sa navigacie pomocou klaves (h,j,k,l,w,b,e,gg,G).
+takisto sa traba naucit prepinat medzi modmy Insert, Command ,Visual a Normal.
+Potom mozno zaklady editovania vymazavanie (d), kopirovanie(y) a vkladanie(p,P)
+Undo a redo (u, ctrl+r)
+Hladanie a nahradzanie vyrazov pomocou prikazov.. doplnim neskor.mal.
+Potom mozno zaklady editovania vymazavanie (d), kopirovanie(y) a vkladanie(p,P)
+Undo a redo (u, ctrl+r)
+Hladanie a nahradzanie vyrazov pomocou prikazov.. doplnim
+n______________________________eskor.
+
+************************
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+
+opakujopakujopakujopakujopakujomal.
+Potom mozno zaklady editovania vymazavanie (d), kopirovanie(y) a vkladanie(p,P)
+Undo a redo (u, ctrl+r)
+Hladanie a nahradzanie vyrazov pomprikaz  ov.. doplnim neskor.pakujopakujopakujopakujopakuj
